@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # WebBone
 快速建立网站结构的起点
 
@@ -15,3 +16,10 @@
 
 ## 注意
 使用`.view`而不是`.html`来引用页面
+=======
+# B0
+```
+type TerminalEnv.Visual.Browser {}
+```
+浏览器终端环境 [B0]
+>>>>>>> df10524e1abdf5516394d0042a1ab077e91f9baf
