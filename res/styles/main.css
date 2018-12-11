@@ -1,0 +1,16 @@
+body,
+html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+body {
+    background: rgb(245, 245, 245);
+}
+
+.slogan {
+    font-size: 32px;
+    color: #7b7b7b;
+    padding: 20vh;
+}
